@@ -21,9 +21,9 @@ import suds
 from setuptools import setup, find_packages
 
 setup(
-    name="suds",
+    name="suds-transbank-chile",
     version=suds.__version__,
-    description="Lightweight SOAP client",
+    description="Lightweight SOAP client (Adapted For working with Transbank, Chile)",
     author="Jeff Ortel",
     author_email="jortel@redhat.com",
     maintainer="Jeff Ortel",
